@@ -16,10 +16,10 @@ Deploy and manage a simple application on a local Kubernetes cluster using **Min
 ## apply these files using #kubectl 
 ## commands
 ## kubectl apply -f deployment.yaml
-![kubectlapply]()
+![kubectlapply](1.png)
 ## kubectl apply -f service.yaml
-![kubectlapply]()
+![kubectlapply](2.png)
 once the deployment is successfull use these commands to check pods and deployments
 ## kubectl get pods 
-![kubectlpods]()
+![kubectlpods](3.png)
 
